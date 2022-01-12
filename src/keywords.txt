@@ -1,0 +1,19 @@
+###################################
+# Syntax Coloring Map For FilamentMakerMenu
+###################################
+
+FilamentMakerMenu	KEYWORD1
+
+showData	KEYWORD2	ReferenceFile
+initialize	KEYWORD2
+decrementPointer	KEYWORD2
+incrementPointer	KEYWORD2
+getPointerPosition	KEYWORD2
+switchSettingMode	KEYWORD2
+getSettingState	KEYWORD2
+printPower	KEYWORD2
+printTemperature	KEYWORD2
+printHeating	KEYWORD2
+printHeatingIcon	KEYWORD2
+printSpeedLeve	KEYWORD2
+printPointer	KEYWORD2
